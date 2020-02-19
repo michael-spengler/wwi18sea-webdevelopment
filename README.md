@@ -40,3 +40,8 @@ The best way to learn web development is to do web development :)
 1. Course attendees are supposed to be attentive
 2. At the end of each lecture unit there is a 40 minutes Q & A and retrospect timeframe
 3. If possible web development contributions in the form of pull requests are used as a bases for grading
+
+
+## Communication Channel
+WWI18SEA-Webdevelopment [Telegram Group](https://t.me/joinchat/CocyExdAlhxpLcd0cqfZ6g)
+
