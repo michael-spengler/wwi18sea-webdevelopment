@@ -39,6 +39,16 @@ The best way to learn web development is to do web development :)
 2. Explore business models for the corresponding offering by creating a Business Model Canvas for the web app
 
 
+### Challenge 6
+1. Develop a Webshop for ...
+
+### Challenge 7 
+1. Develop a "... fuel on the way" platform" - Dennis Neumann
+
+### Challenge 8 
+1. Develop a "... shortest way to many customers" - Dennis Neumann
+
+
 ## Prerequisites
 1. Account on [github.com](https://github.com/)
 2. [Git](https://git-scm.com/) installed
