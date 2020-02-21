@@ -33,8 +33,20 @@ The best way to learn web development is to do web development :)
 
 ### Challenge 5
 1. Develop a web harvester - e.g. for regularly collecting all Hackathon Events on earth and publishing them on a web app
+   1. Find GroupLinks
+   2. Find HostLinks
+   3. Find EventLinks
 2. Explore business models for the corresponding offering by creating a Business Model Canvas for the web app
 
+
+## Prerequisites
+1. Account on [github.com](https://github.com/)
+2. [Git](https://git-scm.com/) installed
+3. [Visual Studio Code](https://code.visualstudio.com/insiders/) installed
+4. [NodeJS](https://nodejs.org/en/) installed
+5. [NestJS](https://nestjs.com/) installed
+6. [Angular CLI](https://angular.io/) installed
+   
 
 ## Rules 
 1. Course attendees are supposed to be attentive
