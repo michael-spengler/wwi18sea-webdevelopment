@@ -48,6 +48,10 @@ The best way to learn web development is to do web development :)
 ### Challenge 8 
 1. Develop a "... shortest way to many customers" - Dennis Neumann
 
+## Challenge 9
+1. Install and Setup a full Monero node on Linux:  
+further info e.g. https://freedomnode.com/blog/110/how-to-install-and-set-up-full-monero-node-on-linux
+2. Analyze kovri https://freedomnode.com/blog/88/kovri-the-most-anticipated-project-from-the-developers-of-monero
 
 ## Prerequisites
 1. Account on [github.com](https://github.com/)
