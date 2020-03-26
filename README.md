@@ -7,15 +7,13 @@ The best way to learn web development is to do web development :)
 
 | Teilnehmer | Abgabe 1 (bis 2.4.2020) | Abgabe 2 (bis 30.4.2020) | Note | Punkte (max.70)
 |------------|----------|----------|----------|------|
-| Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 60 |
+| Name | Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic |  link to repo or pull request 2        |  min: 1,2  |  |
 
 ## Genutzter Notenschlüssel
 Maximal Punktzahl: 60 (to be validated)  
 https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
 
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
-
-
 
 
 
