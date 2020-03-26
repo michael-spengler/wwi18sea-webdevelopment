@@ -2,8 +2,62 @@
 
 The best way to learn web development is to do web development :) 
 
+## Abgaben
 
-## The Plan
+# wwi18sea-abgaben-2020
+
+
+| Teilnehmer | Abgabe 1 (Frontend) | Abgabe 2 (Backend) | Note | Punkte (max.70)
+|------------|----------|----------|----------|------|
+| Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 70 |
+
+## Genutzter Notenschlüssel
+Maximal Punktzahl: 70  
+https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
+
+
+## Bewertungskriterien
+
+**Brainstorming Ergebnisse zu Kriterien**
+1. Das Projekt funktioniert
+2. Separation of Concerns im Code
+3. Design nice and responsive -> Mobile First
+4. Ergebnis der Live-Demo 
+5. Automatisierte Tests (e.g. codecept.io)
+6. Kein Überflüssiger Code
+7. Statische Code Checks 
+8. Effizienter Datenaustausch
+9. Persona Definitionen
+10. Diagramme 
+11. Authentifizierung
+12. Erreichbarkeit im Web
+
+300 daily user für eine 1+ ;) 
+
+## Prerequisites
+1. Account on [github.com](https://github.com/)
+2. [Git](https://git-scm.com/) installed
+3. [Visual Studio Code](https://code.visualstudio.com/insiders/) installed
+4. [NodeJS](https://nodejs.org/en/) installed
+5. [NestJS](https://nestjs.com/) installed
+6. [Angular CLI](https://angular.io/) installed
+   
+
+## Rules 
+1. Course attendees are supposed to be attentive
+2. At the end of each lecture unit there is a 40 minutes Q & A and retrospect timeframe
+3. If possible web development contributions in the form of pull requests are used as a bases for grading
+
+
+## Communication Channel
+WWI18SEA-Webdevelopment [Telegram Group](https://t.me/joinchat/CocyExdAlhxpLcd0cqfZ6g)
+
+
+
+## The Plan as Proposals - concrete Challenges depending on domain specific interests and goals of students
+
+The concrete challenges where students are working on can be found via the Issues Tab.
+
 
 ### Introduction - 8 hours
 1. Introduce Angular, NestJS, TypeScript and show gitcoin-enterprise.org as an example web app
@@ -53,47 +107,3 @@ The best way to learn web development is to do web development :)
 further info e.g. https://freedomnode.com/blog/110/how-to-install-and-set-up-full-monero-node-on-linux
 2. Analyze kovri https://freedomnode.com/blog/88/kovri-the-most-anticipated-project-from-the-developers-of-monero
 
-## Prerequisites
-1. Account on [github.com](https://github.com/)
-2. [Git](https://git-scm.com/) installed
-3. [Visual Studio Code](https://code.visualstudio.com/insiders/) installed
-4. [NodeJS](https://nodejs.org/en/) installed
-5. [NestJS](https://nestjs.com/) installed
-6. [Angular CLI](https://angular.io/) installed
-   
-
-## Rules 
-1. Course attendees are supposed to be attentive
-2. At the end of each lecture unit there is a 40 minutes Q & A and retrospect timeframe
-3. If possible web development contributions in the form of pull requests are used as a bases for grading
-
-
-## Communication Channel
-WWI18SEA-Webdevelopment [Telegram Group](https://t.me/joinchat/CocyExdAlhxpLcd0cqfZ6g)
-
-
-## Abgaben
-
-Name
-
-Abgabe 1 
-
-Abgabe 2
-
-## Kriterien
-
-**Brainstorming Ergebnisse zu Kriterien**
-1. Das Projekt funktioniert
-2. Separation of Concerns im Code
-3. Design nice and responsive -> Mobile First
-4. Ergebnis der Live-Demo 
-5. Automatisierte Tests (e.g. codecept.io)
-6. Kein Überflüssiger Code
-7. Statische Code Checks 
-8. Effizienter Datenaustausch
-9. Persona Definitionen
-10. Diagramme 
-11. Authentifizierung
-12. Erreichbarkeit im Web
-
-300 daily user für eine 1+ ;) 
