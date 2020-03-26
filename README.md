@@ -2,9 +2,7 @@
 
 The best way to learn web development is to do web development :) 
 
-## Abgaben
-
-# wwi18sea-abgaben-2020
+## wwi18sea-abgaben-2020
 
 
 | Teilnehmer | Abgabe 1 (Frontend) | Abgabe 2 (Backend) | Note | Punkte (max.70)
@@ -12,7 +10,7 @@ The best way to learn web development is to do web development :)
 | Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 70 |
 
 ## Genutzter Notenschlüssel
-Maximal Punktzahl: 70  
+Maximal Punktzahl: 70 (to be validated)  
 https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
 
 
