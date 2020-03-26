@@ -32,6 +32,7 @@ Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtsch
 10. Diagramme 
 11. Authentifizierung
 12. Erreichbarkeit im Web (via https:// ist ideal)
+13. TypeScript (TypeSafety & Objektorientierung)
 
 300 daily user für eine 1+ ;) 
 
