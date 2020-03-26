@@ -13,6 +13,11 @@ The best way to learn web development is to do web development :)
 Maximal Punktzahl: 60 (to be validated)  
 https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
 
+Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
+
+
+
+
 
 ## Bewertungskriterien
 
