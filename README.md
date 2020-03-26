@@ -5,7 +5,7 @@ The best way to learn web development is to do web development :)
 ## wwi18sea-abgaben-2020
 
 
-| Teilnehmer | Abgabe 1 (bis 2.4.2020) | Abgabe 2 (bis 30.4.2020) | Note | Punkte (max.70)
+| Teilnehmer | Abgabe 1 (bis 9.4.2020) | Abgabe 2 (bis 30.4.2020) | Note | Punkte (max.70)
 |------------|----------|----------|----------|------|
 | Name | Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic |  link to repo or pull request 2        |  min: 1,2  |  |
 
