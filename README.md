@@ -7,10 +7,10 @@ The best way to learn web development is to do web development :)
 
 | Teilnehmer | Abgabe 1 (Frontend) | Abgabe 2 (Backend) | Note | Punkte (max.70)
 |------------|----------|----------|----------|------|
-| Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 70 |
+| Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 60 |
 
 ## Genutzter Notenschlüssel
-Maximal Punktzahl: 70 (to be validated)  
+Maximal Punktzahl: 60 (to be validated)  
 https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
 
 
