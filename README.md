@@ -5,7 +5,7 @@ The best way to learn web development is to do web development :)
 ## wwi18sea-abgaben-2020
 
 
-| Teilnehmer | Abgabe 1 | Abgabe 2 | Note | Punkte (max.70)
+| Teilnehmer | Abgabe 1 (bis 2.4.2020) | Abgabe 2 (bis 30.4.2020) | Note | Punkte (max.70)
 |------------|----------|----------|----------|------|
 | Name | link to repo or pull request 1         |  link to repo or pull request 2        |  1,0    | 60 |
 
