@@ -7,8 +7,8 @@ The best way to learn web development is to do web development :)
 
 | Teilnehmer | Abgabe 1 (Frontend) | Abgabe 2 (Backend) | Note | Punkte (max.70)
 |------------|----------|----------|----------|------|
-| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | link to repo or pull request 1 |  link to repo or pull request 2        |  min: 1,2  |  |
-| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-frontend |  https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-backend |  min:   |  |
+| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | git.tjbn.de/webentwicklung |  git.tjbn.de/webentwicklung        |  min: 1,2  |  |
+| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-frontend |  https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-backend |  min: 1,2  |  |
 
 
 ## Genutzter Notenschlüssel
