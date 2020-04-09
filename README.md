@@ -10,6 +10,7 @@ The best way to learn web development is to do web development :)
 | Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | git.tjbn.de/webentwicklung |  git.tjbn.de/webentwicklung        |  min: 1,2  |  |
 | Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-frontend |  https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-backend |  min: 1,2  |  |
 | Arthur Siebert, Dennis Neumann, Tobias Bergmeier   |  |  |  min: 1,9  |  |
+| Rouven, Kevin, Lukas, Julie, Soufian   |  |  |  min: 1,1  |  |
 
 ## Genutzter Notenschlüssel
 Maximal Punktzahl: 60 (to be validated)  
@@ -29,7 +30,7 @@ Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtsch
 5. Automatisierte Tests (e.g. codecept.io)
 6. Kein Überflüssiger Code
 7. Statische Code Checks 
-8. Effizienter Datenaustausch
+8. Effizienter Datenaustausch (on Demand)
 9. Persona Definitionen
 10. Diagramme 
 11. Authentifizierung
