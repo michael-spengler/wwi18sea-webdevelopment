@@ -11,6 +11,7 @@ The best way to learn web development is to do web development :)
 | Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-frontend |  https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-backend |  min: 1,2  |  |
 | Arthur Siebert, Dennis Neumann, Tobias Bergmeier   |  |  |  min: 1,9  |  |
 | Rouven, Kevin, Lukas, Julie, Soufian   |  |  |  min: 1,1  |  |
+| Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   |  |  |  min: 2,0  |  |
 
 ## Genutzter Notenschlüssel
 Maximal Punktzahl: 60 (to be validated)  
