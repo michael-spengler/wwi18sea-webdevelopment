@@ -2,24 +2,27 @@
 
 The best way to learn web development is to do web development :) 
 
+Im Rahmen der Vorlesungsreihe haben die Studierenden die folgenden Projekte entwickelt:
+1. https://diseasefinder.org
+2. https://m-y-board.de/
+3. https://greenlife.host/
+4. Fagb.multiflexxx.de
+
+Es wurden 2 Abgaben bewertet (1. Frontend UI / 2. Backend inklusive Persistenz)
+
 ## wwi18sea-abgaben-2020
 
 
-| Teilnehmer | Abgabe 1 (Frontend) | Abgabe 2 (Backend) | Note | Punkte (max.70)
-|------------|----------|----------|----------|------|
-| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | git.tjbn.de/webentwicklung |  git.tjbn.de/webentwicklung        |  min: 1,0  |  |
-| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-frontend |  https://github.com/Grimmig18/find-a-gamer/tree/master/Source-Code/fagb-backend |  min: 1,0  |  |
-| Arthur Siebert, Dennis Neumann, Tobias Bergmeier   |  |  |  min: 1,1  |  |
-| Rouven, Kevin, Lukas, Julie, Soufian   |  |  |  min: 1,0  |  |
-| Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   |  |  |  min: 1,2  |  |
+| Teilnehmer | Entwickelte Web App | Note | Punkte (max.70)
+|------------|----------|----------|------|
+| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | greenlife.host        |  min: 1,0  |  |
+| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | Fagb.multiflexxx.de |  min: 1,0  |  |
+| Arthur Siebert, Dennis Neumann, Tobias Bergmeier   | https://diseasefinder.org |  min: 1,1  |  |
+| Rouven, Kevin, Lukas, Julie, Soufian   | tbu |  min: 1,0  |  |
+| Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   | m-y-board.de |  min: 1,2  |  |
 
 ## Genutzter Notenschlüssel
-Maximal Punktzahl: 60 (to be validated)  
-https://www.lehrerfreund.de/notenschluesselrechner/form-punkte-noten-linear
-
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
-
-
 
 ## Bewertungskriterien
 
