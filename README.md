@@ -6,7 +6,8 @@ Im Rahmen der Vorlesungsreihe haben die Studierenden die folgenden Projekte entw
 1. https://diseasefinder.org
 2. https://m-y-board.de
 3. https://greenlife.host
-4. Fagb.multiflexxx.de
+4. https://sea-store-187.appspot.com
+5. Fagb.multiflexxx.de (temporär: https://fagb.mertens-web.de)
 
 Es wurden 2 Abgaben bewertet (1. Frontend UI / 2. Backend inklusive Persistenz)
 
@@ -18,7 +19,7 @@ Es wurden 2 Abgaben bewertet (1. Frontend UI / 2. Backend inklusive Persistenz)
 | Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | https://greenlife.host |  1,0  |  |
 | Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | Fagb.multiflexxx.de |  1,0  |  |
 | Arthur Siebert, Dennis Neumann, Tobias Bergmeier   | https://diseasefinder.org |  1,1  |  |
-| Rouven, Kevin, Lukas, Julie, Soufian   | tbu |  1,0  |  |
+| Rouven, Kevin, Lukas, Julie, Soufian   | https://sea-store-187.appspot.com |  1,0  |  |
 | Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   | https://m-y-board.de |  1,2  |  |
 
 ## Genutzter Notenschlüssel
