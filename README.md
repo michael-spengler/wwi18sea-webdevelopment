@@ -14,13 +14,13 @@ Es wurden 2 Abgaben bewertet (1. Frontend UI / 2. Backend inklusive Persistenz)
 ## wwi18sea-abgaben-2020
 
 
-| Teilnehmer | Entwickelte Web App | Note | Punkte (max.70)
+| Teilnehmer | Entwickelte Web App | Note | Punkte (max.80)
 |------------|----------|----------|------|
-| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | https://greenlife.host |  1,0  |  |
-| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | Fagb.multiflexxx.de |  1,0  |  |
-| Arthur Siebert, Dennis Neumann, Tobias Bergmeier   | https://diseasefinder.org |  1,1  |  |
-| Rouven, Kevin, Lukas, Julie, Soufian   | https://sea-store-187.appspot.com |  1,0  |  |
-| Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   | https://m-y-board.de |  1,2  |  |
+| Tobias Jansen, Calogero Meli, Mohammad Ali Alnaser, Marleen Ilse Benner, Sinan-Justin Kühn, Jan Zecevic | https://greenlife.host |  1,0  | 80 |
+| Tristan Emig, Benno Grimm, Anton Ochel, Marcel Mertens, Anna-Lena Richert, Tizian Groß   | Fagb.multiflexxx.de |  1,0  | 80 |
+| Arthur Siebert, Dennis Neumann, Tobias Bergmeier   | https://diseasefinder.org |  1,1  | 79 |
+| Rouven, Kevin, Lukas, Julie, Soufian   | https://sea-store-187.appspot.com |  1,0  | 80 |
+| Mahmoud, Gian Luca, Tobias Lorenz, Daniel Kossak   | https://m-y-board.de |  1,2  | 77 |
 
 ## Genutzter Notenschlüssel
 Check: https://www.mannheim.dhbw.de/fileadmin/user_upload/Studienangebot/Wirtschaft/__Downloads/Punkte-Noten-Skalen-FK-Wirtschaft-FakW-DHBW-MA-201203.pdf
